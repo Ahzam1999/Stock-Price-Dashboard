@@ -32,8 +32,8 @@ Due to GitHub file size limitations, large files (full dataset and Power BI file
 ## 🔹 Dataset Information
 ⚠️ **Large datasets are not stored directly in this repository due to GitHub size limits.**
 
-- 📂 **Sample cleaned dataset:**  
-  `data/cleaned/stock_prices_sample.csv`
+- 📂 **Sample Raw dataset:**  
+  `Raw Data/S&P 500 Stock Prices 2014-2017.csv`
 - 🔗 **Full cleaned dataset:**  
   *Link provided below*
 
